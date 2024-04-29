@@ -70,3 +70,6 @@ ___
 - resetPressed(ActionEvent e)
 - lock()
 - onKeyPressed(KeyEvent k)
+___
+**AGGIE HONOR CODE:**
+"An Aggie does not lie, cheat or steal or tolerate those who do."
